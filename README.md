@@ -65,4 +65,4 @@ Configure database connection in the backend code.
 
 Run the server (XAMPP/WAMP/Flask/Django/etc.).
 
-Access the system via browser: http://localhost/quiz
+Access the system via browser: http://localhost/dbms
